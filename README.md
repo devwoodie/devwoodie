@@ -14,7 +14,7 @@ I wanna be Frontend Developer
 ---
 :telephone: **Contact**
 
-<a href="mailto:nlp.with.deep.ehddl453@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a> <a href="https://devwoodie.tistory.com"><img src="https://img.shields.io/badge/Tistory-F16521?style=flat&logo=ts-node&logoColor=fff"/><a/> 
+<a href="mailto:nlp.with.deep.ehddl453@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a> <a href="https://devwoodie.tistory.com"><img src="https://img.shields.io/badge/Tistory-F16521?style=flat&logo=ts-node&logoColor=fff"/><a/> <a href="https://velog.io/@woodie"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fff"/><a/> 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devwoodie&show_icons=true&bg_color=fff&title_color=3e67ed&text_color=000&border_color=3e67ed&icon_color=faeb23)
