@@ -4,7 +4,7 @@
 
 I wanna be Frontend Developer<br/>
 <br/>
-📑 [**RESUME click!**](https://www.notion.so/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd) 👈
+📑 [**RESUME click!**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd) 👈
 <br/>
 
 :computer: **Tech Stack**
