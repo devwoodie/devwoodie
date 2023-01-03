@@ -2,7 +2,10 @@
 
 ### Hi there 👋 , My name is Dongwoo
 
-I wanna be Frontend Developer
+I wanna be Frontend Developer<br/>
+<br/>
+📑 [**RESUME click!**](https://www.notion.so/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd) 👈
+<br/>
 
 :computer: **Tech Stack**
 
