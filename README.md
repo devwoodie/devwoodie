@@ -20,7 +20,7 @@ I wanna be Frontend Developer<br/>
 <a href="mailto:nlp.with.deep.ehddl453@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a> <a href="https://devwoodie.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-F16521?style=flat&logo=ts-node&logoColor=fff"/><a/> <a href="https://velog.io/@woodie" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=fff"/><a/> 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devwoodie&show_icons=true&bg_color=fff&title_color=3e67ed&text_color=000&border_color=3e67ed&icon_color=faeb23)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devwoodie&theme=dark&show_icons=true&bg_color=fff&title_color=3e67ed&text_color=000&border_color=3e67ed&icon_color=faeb23)
 
 
 <div align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevwoodie&count_bg=%237594F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a></div>
