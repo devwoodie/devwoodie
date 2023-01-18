@@ -13,7 +13,7 @@ I wanna be Frontend Developer<br/>
 ---
 :hammer: **Tools**
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=fff"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=fff"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=fff"/> <img src="https://img.shields.io/badge/XD-FF61F6?style=flat&logo=Adobe XD&logoColor=fff"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=fff"/> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=fff"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=fff"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=fff"/> <img src="https://img.shields.io/badge/XD-FF61F6?style=flat&logo=Adobe XD&logoColor=fff"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=fff"/> 
 ---
 :telephone: **Contact**
 
