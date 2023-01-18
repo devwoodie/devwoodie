@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3e67ed&height=100&section=header)
 
 ### Hi there 👋 , My name is Dongwoo
-
+I like to write neat and tidy code.<br/>
+That's why the title of my resume is **`Tidy Code`**.<br/>
+Let's check it out 👇
 <br/>
 
-📑 [**RESUME click!**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd) 👈
+📑 [**RESUME click!**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd)
 <br/>
-📑 [**PORTFOLIO click!**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd) 👈
+<br/>
+📑 [**PORTFOLIO click!**](https://devwoodie.github.io)
 <br/>
 
 :computer: **Tech Stack**
