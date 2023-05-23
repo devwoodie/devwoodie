@@ -8,6 +8,8 @@ Let's check it out 👇
 
 📑 [**RESUME click!**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd)
 
+📑 [**BLOG click!**](https://devwoodie.tistory.com)
+
 📑 [**PORTFOLIO click!**](https://devwoodie.github.io)
 
 <br/>
