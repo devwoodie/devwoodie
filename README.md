@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3e67ed&height=100&section=header)
+## 유동우 <i>Yu Dong Woo</i>
+👨‍💻 Frontend Developer
 
 ### Hi there 👋 , My name is Dongwoo
 I like to write neat and tidy code.<br/>
@@ -6,11 +7,7 @@ That's why the title of my resume is **`Tidy Code`**.<br/>
 Let's check it out 👇
 <br/>
 
-📑 [**RESUME click!**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd)
-
-📑 [**BLOG click!**](https://devwoodie.tistory.com)
-
-📑 [**PORTFOLIO click!**](https://devwoodie.github.io)
+✨ <i>For More Info</i>...  [**BLOG**](https://devwoodie.tistory.com) | [**RESUME**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd) | [**PORTFOLIO**](https://devwoodie.github.io)
 
 <br/>
 
