@@ -13,7 +13,8 @@ Let's check it out 👇
 
 ## 
 
-**비사이드 15기** @B-Side <sub><sup>FE Developer (2023.04 ~ 2023.07)</sup></sub>
+**비사이드 15기** @B-Side <sub><sup>FE Developer (2023.04 ~ 2023.07)</sup></sub> <br/>
+**스위프 2기** @SWYP <sub><sup>FE Developer (2023.11 ~ 2023.12)</sup></sub>
 
 <br/>
 <br/>
