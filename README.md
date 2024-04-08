@@ -9,7 +9,7 @@ That's why the title of my resume is **`Tidy Code`**.<br/>
 Let's check it out 👇
 <br/>
 
-✨ <i>For More Info</i>...  [**BLOG**](https://devwoodie.tistory.com) | [**RESUME**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd)
+✨ <i>For More Info</i>...  [**NEW BLOG**](https://devwoodie.github.io) | [**PREV BLOG**](https://devwoodie.tistory.com) | [**RESUME**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd)
 
 ## 
 
