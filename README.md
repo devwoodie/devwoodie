@@ -18,8 +18,10 @@ Let's check it out 👇
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devwoodie&theme=dark&show_icons=true&bg_color=fff&title_color=3e67ed&text_color=000&border_color=3e67ed&icon_color=faeb23)
 
 
 <div align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevwoodie&count_bg=%237594F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a></div>
