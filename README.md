@@ -21,7 +21,12 @@ Let's check it out 👇
 ## Quick Start
 How to run `devwoodie CLI` by [**NPM**](https://www.npmjs.com/package/devwoodie)
 ```bash
-npx devwoodie
+# CMD
+npm i devwoodie && npx devwoodie
+```
+```bash
+# PowerShell
+npm i devwoodie; npx devwoodie
 ```
 ```bash
 Options:
