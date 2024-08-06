@@ -1,7 +1,7 @@
 ## 유동우 <i>Yu Dong Woo</i>
 👨‍💻 Frontend Developer
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=fff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=fff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff"/>
 
 ✨ <i>For More Info</i>...  [**BLOG**](https://www.devwoodie.com) | [**RESUME**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd)
 
@@ -19,11 +19,11 @@ npm i devwoodie; npx devwoodie
 ```
 ```bash
 Options:
-    -c, --career     Display Career (경력 보기)
-    -g, --github     Open Github (깃허브 열기)
-    -b, --blog       Open Blog (기술 블로그 구경하기)
-    -p, --portfolio  Open Portfolio (포트폴리오 보러가기)
-    -r, --resume     Open Resume (이력서 열기)
+    -c, --career     Display Career
+    -g, --github     Open Github
+    -b, --blog       Open Blog
+    -p, --portfolio  Open Portfolio
+    -r, --resume     Open Resume
     -h, --help       display help for command
 ```
 
