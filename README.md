@@ -5,7 +5,6 @@
 
 ✨ <i>For More Info</i>...  [**BLOG**](https://www.devwoodie.com) | [**RESUME**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd)
 
-**팀 핀프렌즈** @Finfriends <sub><sup>FE Developer (2024.08 ~ )</sup></sub> <br/>
 **스위프 2기** @SWYP <sub><sup>FE Developer (2023.11 ~ 2023.12)</sup></sub> <br/>
 **비사이드 15기** @B-Side <sub><sup>FE Developer (2023.04 ~ 2023.07)</sup></sub>
 
