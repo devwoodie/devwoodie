@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=fff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff"/>
 
-✨ <i>For More Info</i>...  [**BLOG**](https://www.devwoodie.com) | [**RESUME**](https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd)
+✨ <i>For More Info</i>...  [**BLOG**](https://www.devwoodie.com)
 
 **스위프 2기** @SWYP <sub><sup>FE Developer (2023.11 ~ 2023.12)</sup></sub> <br/>
 **비사이드 15기** @B-Side <sub><sup>FE Developer (2023.04 ~ 2023.07)</sup></sub>
