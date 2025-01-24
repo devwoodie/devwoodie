@@ -1,8 +1,7 @@
 ## 유동우 <i>Yu Dong Woo</i>
 👨‍💻 Frontend Developer
 
-![devwoodie-tiers (4)](https://github.com/user-attachments/assets/e47a2cc0-639b-4991-9e38-034164b9c419)
-
+![devwoodie-tiers (3)](https://github.com/user-attachments/assets/7f4e2f86-73ba-4c7c-bdcd-4d73a4d2360b)
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=fff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff"/>
 
