@@ -13,16 +13,6 @@
 
 <br/>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/devwoodie"
-  width="600"
-  height="300"
-/>
-</a>
-
-<br/>
-
 ## Quick Start
 How to run `devwoodie CLI` by [**NPM**](https://www.npmjs.com/package/devwoodie)
 ```bash
