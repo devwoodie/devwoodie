@@ -5,7 +5,7 @@
 
 <a href="https://github.com/git-tiers/gittiers">
     <img
-      src="https://github.com/user-attachments/assets/33dddf07-5a8a-4846-a3fc-17fe636dbe2c"
+      src="https://github.com/user-attachments/assets/a0f16f22-c601-4db7-99db-0cbae7c98850"
     />
 </a>
 
