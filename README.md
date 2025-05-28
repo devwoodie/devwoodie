@@ -1,4 +1,4 @@
-## 유동우 <i>Yu Dong Woo</i>
+## 유동우 <b>Yu Dong Woo</b>
 👨‍💻 Frontend Developer
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=fff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff"/>
@@ -19,9 +19,7 @@
 ## Quick Start
 How to run `devwoodie CLI` by [**NPM**](https://www.npmjs.com/package/devwoodie)
 ```bash
-npm i devwoodie && npx devwoodie
-# or
-npm i devwoodie; npx devwoodie
+npx devwoodie
 ```
 ```bash
 Options:
@@ -33,5 +31,3 @@ Options:
     -h, --help       display help for command
 ```
 
-
-<div align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevwoodie&count_bg=%237594F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a></div>
