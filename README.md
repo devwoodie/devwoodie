@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=fff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff"/>
 
-<a href="https://github.com/git-tiers/gittiers"><img src="https://git-tiers.devwoodie.com/api/tier/devwoodie" alt="Git-TIERS" /></a>
+<a href="https://github.com/git-tiers/gittiers" target="_blank"><img src="https://git-tiers.devwoodie.com/api/tier/devwoodie" alt="Git-TIERS" /></a>
 
 ✨ <i>For More Info</i>...  [**BLOG**](https://www.devwoodie.com)
 
