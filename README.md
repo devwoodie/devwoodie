@@ -1,4 +1,5 @@
-## 유동우 <b>Yu Dong Woo</b>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Modak&size=30&pause=1000&color=4493F8&width=435&lines=Hello%2C+World!+I'm+devwoodie!" alt="Typing SVG" /></a>
+
 👨‍💻 Frontend Developer
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=fff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=fff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=fff"/>
