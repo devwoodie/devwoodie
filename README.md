@@ -6,8 +6,10 @@
 
 [I would appreciate it if you could visit my tech blog and leave a message.](https://www.devwoodie.com/guestbook)
 
-<sub><sup>스위프 2기 @SWYP FE Developer (2023.11 ~ 2023.12)</sup></sub> <br/>
-<sub><sup>비사이드 15기 @B-Side FE Developer (2023.04 ~ 2023.07)</sup></sub>
+<sub><sup><b>스위프 2기 @SWYP</b> FE Developer (2023.11 ~ 2023.12)</sup></sub> <br/>
+<sub><sup><b>비사이드 15기 @B-Side</b> FE Developer (2023.04 ~ 2023.07)</sup></sub>
+
+<sub><sup><b>포포노트 PopoNote</b> [App Store](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8F%AC%EB%85%B8%ED%8A%B8/id6782025922)</sup></sub>
 
 <br/>
 
@@ -16,13 +18,3 @@ How to run `devwoodie CLI` by [**NPM**](https://www.npmjs.com/package/devwoodie)
 ```bash
 npx devwoodie
 ```
-```bash
-Options:
-    -c, --career     Display Career
-    -g, --github     Open Github
-    -b, --blog       Open Blog
-    -p, --portfolio  Open Portfolio
-    -r, --resume     Open Resume
-    -h, --help       display help for command
-```
-
