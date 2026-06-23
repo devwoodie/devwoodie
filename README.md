@@ -18,3 +18,12 @@ How to run `devwoodie CLI` by [**NPM**](https://www.npmjs.com/package/devwoodie)
 ```bash
 npx devwoodie
 ```
+```bash
+Options:
+    -c, --career     Display Career
+    -g, --github     Open Github
+    -b, --blog       Open Blog
+    -p, --portfolio  Open Portfolio
+    -r, --resume     Open Resume
+    -h, --help       display help for command
+```
