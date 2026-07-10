@@ -10,7 +10,8 @@
 <sub><sup><b>비사이드 15기 @B-Side</b> FE Developer (2023.04 ~ 2023.07)</sup></sub>
 
 <sub><sup><b>포포노트 PopoNote</b> [App Store](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8F%AC%EB%85%B8%ED%8A%B8/id6782025922) | [Github](https://github.com/whitenoise-hq/poponote)</sup></sub> <br/>
-<sub><sup><b>포포스탯 PopoStat</b> [Github](https://github.com/whitenoise-hq/popostat)</sup></sub>
+<sub><sup><b>포포스탯 PopoStat</b> [App Store](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8F%AC%EC%8A%A4%ED%83%AF/id6783257407) | [Github](https://github.com/whitenoise-hq/popostat)</sup></sub> <br/>
+<sub><sup><b>포포퍼즐 PopoPuzzle</b> [Github](https://github.com/whitenoise-hq/popo2048)</sup></sub> 
 
 <br/>
 
